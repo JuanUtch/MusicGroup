@@ -1,0 +1,39 @@
+[
+  {
+    "name":"Twenty One Pilots",
+    "desc":"Twenty One Pilots es un dúo musical estadounidense conocido por fusionar pop, rock alternativo, rap y electrónica. Con letras introspectivas sobre ansiedad y depresión, han ganado reconocimiento global por su sonido distintivo y enérgico en vivo.",
+    "img": "https://cdns-images.dzcdn.net/images/artist/c259fffca57feb4274a932f90392521f/500x500.jpg"
+  },
+  {
+    "name":"Banda El Recodo",
+    "desc":"Una de las agrupaciones más icónicas de la música de banda en México. Con una trayectoria de más de 80 años, son reconocidos por su estilo único y sus interpretaciones de música regional mexicana.",
+    "img": "https://cdns-images.dzcdn.net/images/artist/a9532fe83b643292541f998ebc57b6d7/500x500.jpg"
+  },
+  {
+    "name":"Banda MS",
+    "desc":"Banda sinaloense mexicana conocida por su estilo romántico y sus letras emotivas. Han ganado reconocimiento por su sonido característico y sus actuaciones en vivo llenas de energía.",
+    "img": "https://cdns-images.dzcdn.net/images/artist/da1290662d2b260cc8a3b480f81dd253/500x500.jpg"
+  },
+  {
+    "name":"Intocable",
+    "desc":"Intocable: Grupo tejano de música norteña conocido por su innovador estilo fusionando el género con otros ritmos como el pop y el rock. Han sido influyentes en la escena de la música regional mexicana.",
+    "img": "https://i1.sndcdn.com/artworks-000060372941-w7isx9-t500x500.jpg"
+  },
+  {
+    "name":"Los Recoditos",
+    "desc":"Banda originaria de Sinaloa, México, reconocida por su música de banda con toques de cumbia y balada. Han ganado popularidad por sus canciones pegajosas y sus presentaciones enérgicas en vivo.",
+    "img": "https://i1.sndcdn.com/avatars-000036509723-1n9ws5-t500x500.jpg"
+  },
+  {
+    "name":" Los Angeles Azules",
+    "desc":"Banda originaria de Sinaloa, México, reconocida por su música de banda con toques de cumbia y balada. Han ganado popularidad por sus canciones pegajosas y sus presentaciones enérgicas en vivo.",
+    "img": "https://desdepuebla.com/wp-content/uploads/2021/05/angeles-azules-sonora-dinamita-amenizaran_0_38_958_596.jpg"
+  },
+
+  {
+    "name":" Los tucanes de Tijuana",
+    "desc":"Banda originaria de Sinaloa, México, reconocida por su música de banda con toques de cumbia y balada. Han ganado popularidad por sus canciones pegajosas y sus presentaciones enérgicas en vivo.",
+    "img": "https://i1.sndcdn.com/artworks-GQ88X39tgfmn-0-t500x500.jpg"
+  }
+
+]
