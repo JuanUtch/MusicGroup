@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Informacion({name, desc, img}) {
+export default function Informacion({name, desc, img, areaName}) {
   const style = {
     color:'black',
   }
@@ -12,6 +12,11 @@ export default function Informacion({name, desc, img}) {
         <div className="col-md-7">
           <h2 style={style} className="featurette-heading fw-normal lh-1">{name}</h2>
           <p style={style} className="lead">{desc}</p>
+          <ul>
+            <li>
+              <h5>{areaName}</h5>
+            </li>
+          </ul>
         </div>
         <div className="col-md-5">
         <img className="img-fluid mx-auto" src={img} alt={name} width="500" height="500"/>
